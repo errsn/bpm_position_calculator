@@ -32,3 +32,8 @@ For example:
     python3 beat_positions_calc.py example_song.mp3 output_example_song.mp3
    
 Where example_song.mp3 is the song you would like to run through the program and output_example_song.mp3 is a copy of the same song.
+
+Using the provided example mp3s, the command would be as follows
+        python3 beat_positions_calc.py example_killy_killy_joker.mp3 output_example_killy_killy_joker.mp3
+        
+The beat ticks have already been written onto the output file, so you can listen to the beats along with the original music.
